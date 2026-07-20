@@ -10,7 +10,7 @@ First code :-
 # z = (x1 * w1) + (x2 * w2) + (x3 * w3) + b
 # print(f"Output: {z:2f}")
 
-Second improved:- 
+Improved neuron:- 
 # print("Enter the number of inputs:")
 # n = int(input())
 # inputs = []
